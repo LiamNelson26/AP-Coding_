@@ -11,10 +11,23 @@ for numbers in 48:
     print(value)
 
 
-def numberThing(numbersList, value):
+def numbersThing(numbersList, value):
     for x in numbersList:
-        break
+        print(X)
         if x == value:
-            print(x)
+            break
 
-numberThing(numbersList,value)
+numbersThing(numbersList,value)
+
+# create a function that will organize numbers from
+# least to greatest
+
+unorderList= [ 23, 600, 4, 91, 22, 49]
+
+unorderList.sort(reverse= True)
+
+print(unorderList)
+
+# Organize list from least to greatest WITHOUT
+# using sort()
+
