@@ -1,0 +1,18 @@
+1. Describe 3 things that humans can do that AI can't do
+
+-  Humans can feel emotion, AI can simulate emotional responses but cannot actually feel emotion.
+-  Humans have self awareness and consciousness since they know they are alive. AI is not self aware
+   that they actually exist.  
+-  Humans can create things with true meaning. AI can create creative outputs but they do not have
+   personal experience or meaning behind them.
+
+2. Describe one way AI can be used to help people. Describe one way AI can hurt people
+
+AI can be used in healthcare to help doctors find diseases early. It can look at X-Rays to spot signs
+of cancer faster and accurately. AI can be hurtful when they generate fake information, typically on 
+social media or news stations. Which can spread lies, confusion, or harm someone's reputation.
+
+3. What do you think schools should do to integrate AI in classrooms?
+
+Teachers can use AI to teach AI literacy so that it can help students understand how AI works and tell
+if the information it gives is helpful or harmful.

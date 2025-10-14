@@ -3,8 +3,7 @@
 
 
 # A linear search work everywhere, but it much slower than a binary search. A binary search 
-# works much faster than a linear search, but it needs to include a sorted array in order for
-# it to operate.
+# works much faster than a linear search and splits the ordered list in half.
 
 
 # 2. How many steps would it take to get to the desired number of 98 using linear search?
@@ -20,12 +19,14 @@ listA = [10,24,34,35,67,98,101]
 # Please write your response using complete sentences.
 listB = [1,40, 44, 55, 70, 93, 99, 134, 145, 150, 200, 244]
 
-# If we use binary search to find 150 in the list, first we can look for the value in the middle,
-# which 
+# If we use binary search to find 150 in the list, we have to split the list half twice.
 
 
 # 4. In your own words describe what an algorithm is. 
 # Please write your response using complete sentences.
+
+# Algorithm is a list of code and instructions to perform a task.
+
 
 # 5. A person and their family is visiting a medical building. the medical building has
 # 10 floors. The patient that the person and their family is visiting is on the 7th floor 
@@ -33,6 +34,8 @@ listB = [1,40, 44, 55, 70, 93, 99, 134, 145, 150, 200, 244]
 # patient on the 7th floor. which big-O time complexity would best describe the steps it
 # would for them to get to the desired room and why? 
 # Please write your response using complete sentences.
+
+
 
 # 6. You and your friends are headed out to a party, as you're preparing to walk out the door to meet with
 # your pals, your realize you forgot your phone. you you can't remember exactly where you misplaced it 
