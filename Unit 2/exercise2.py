@@ -38,7 +38,7 @@ print(team_6)
 
 # Which team has the best home point differential this season?
 
-# The Bulls have t
+# The Bulls have 
 
 # Which team has the best away point differential this season?
 
@@ -51,19 +51,24 @@ print(team_6)
 # of those numbers. If they are not done entering numbers, it should allow them to 
 # enter another one.
 
-
-
 def pdCheck():
-    print("Please enter a number. Please enter 'q' to calculate")
-    number = int(input())
+    print("Please enter a number")
+    number = input()
     values = []
-    calculate = 'q'
-    while calculate != 0: # while whatever IS NOT 9 DO THIS...
-        values.append(number)
+
+    while number != 'g':
+        values.append(int(number))
         print(values)
         print("Please enter a number")
         number = input()
     else: 
         print('doing calculation...')
+        total = sum(values)
+        print(total)      
+
+    # For Loop
+    # Add all the numbers and return the sum of those numbers.
+    # this should give us the PD.
+    # HINT: you're going to be using a for loop
 
 pdCheck()
