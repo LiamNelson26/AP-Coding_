@@ -1,0 +1,7 @@
+1. "How does a quarterback's passing accuracy relate to their touchdown-to-interception ratio
+over the season?" 
+
+2. "Does an increase in a running back's total rushing yards correlate with an improvement in 
+their average yards per carry?"
+
+3. "Do defensive turnovers contribute to a teams win percentage?"
